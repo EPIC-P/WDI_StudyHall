@@ -34,5 +34,6 @@ result = case operator
 		 else
 		 	"Error"
 		 end
+		 
 # Outputs results
 puts "Result: #{result}"
