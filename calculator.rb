@@ -1,4 +1,4 @@
-# Calculator Exercise
+
 puts "Enter a number, an operator, and finally another number: "
 
 # Grabs the 3 inputs from user: 2 numbers, and an operator
@@ -34,5 +34,6 @@ result = case operator
 		 else
 		 	"Error"
 		 end
+		 
 # Outputs results
 puts "Result: #{result}"
